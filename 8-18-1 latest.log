@@ -1,0 +1,179 @@
+[17:22:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:22:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:22:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:22:31] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[17:22:31] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_381, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre-1.8
+[17:22:31] [main/INFO] [FML]: Searching D:\nomifactory-dev-f05d2f5-server\.\mods for mods
+[17:22:31] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-8.3.jar
+[17:22:31] [main/WARN] [FML]: The coremod -Bansoukou- (zone.rong.bansoukou.BansoukouCoreMod) is not signed!
+[17:22:31] [main/INFO] [Bansoukou]: Ikimasu!
+[17:22:31] [main/WARN] [Bansoukou]: gregtech-1.12.2-1.17.1.770.jar was found in the mods folder. Copying to modify the copied cache.
+[17:22:31] [main/WARN] [Bansoukou]: Marking file:/D:/nomifactory-dev-f05d2f5-server/./mods/gregtech-1.12.2-1.17.1.770.jar to fool Forge's mod discovering mechanism.
+[17:22:31] [main/WARN] [Bansoukou]: Patching assets/gregtech/lang/en_us.lang...
+[17:22:31] [main/WARN] [Bansoukou]: Patching assets/gregtech/lang/ru_ru.lang...
+[17:22:31] [main/WARN] [Bansoukou]: Patching assets/gregtech/lang/zh_cn.lang...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/api/util/Version.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/ClientProxy.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/covers/CoverConveyor.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/covers/CoverFluidFilter.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/covers/CoverItemFilter.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/covers/CoverPump.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/covers/CoverRoboticArm.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/covers/filter/ItemFilterContainer.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/covers/TransferMode.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/metatileentities/storage/MetaTileEntityQuantumChest$1.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/metatileentities/storage/MetaTileEntityQuantumChest$QuantumChestItemHandler.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/common/metatileentities/storage/MetaTileEntityQuantumChest.class...
+[17:22:31] [main/WARN] [Bansoukou]: Patching gregtech/loaders/oreprocessing/RecyclingRecipeHandler.class...
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AdvancedRocketry-1.12.2-1.7.0-240-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod AdvancedRocketryPlugin (zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin) is not signed!
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in appliedenergistics2-rv6-stable-7-extended_life-v0.55.20.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod AE2ELCore (appeng.core.AE2ELCore) is not signed!
+[17:22:32] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from censoredasm5.13.jar
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.65_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:22:32] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.14-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:22:32] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in gregtech-1.12.2-1.17.1.770-patched.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod GTCELoadingPlugin (gregtech.common.asm.GTCELoadingPlugin) is not signed!
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in gregtech-1.12.2-1.17.1.770.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod GTCELoadingPlugin (gregtech.common.asm.GTCELoadingPlugin) is not signed!
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in librarianlib-1.12.2-4.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod com.teamwizardry.librarianlib.asm.LibLibCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:22:32] [main/WARN] [FML]: The coremod LibrarianLib Plugin (com.teamwizardry.librarianlib.asm.LibLibCorePlugin) is not signed!
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.27_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:22:32] [main/WARN] [FML]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in logisticspipes-0.10.4.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod logisticspipes.asm.LogisticsPipesCoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:22:32] [main/WARN] [FML]: The coremod LogisticsPipesCoreLoader (logisticspipes.asm.LogisticsPipesCoreLoader) is not signed!
+[17:22:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in nae2-1.2.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:22:32] [main/WARN] [FML]: The coremod NAE2-Core (co.neeve.nae2.NAE2MixinPlugin) is not signed!
+[17:22:32] [main/WARN] [FML]: The coremod com.therandomlabs.randompatches.core.RPCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:22:32] [main/WARN] [FML]: The coremod RBLoadingPlugin (pw.prok.realbench.asm.RBLoadingPlugin) is not signed!
+[17:22:32] [main/WARN] [FML]: The coremod io.dogboy.serializationisbad.legacyforge.SerializationIsBadCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:22:32] [main/WARN] [FML]: The coremod serializationisbad (io.dogboy.serializationisbad.legacyforge.SerializationIsBadCoreMod) is not signed!
+[17:22:32] [main/INFO] [io.dogboy.serializationisbad.core.SerializationIsBad]: Initializing SerializationIsBad, implementation type: legacyforge
+[17:22:32] [main/ERROR] [io.dogboy.serializationisbad.core.SerializationIsBad]: Failed to load remote config file
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.TransportContext.fatal(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.TransportContext.fatal(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.TransportContext.fatal(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.CertificateMessage$T13CertificateConsumer.checkServerCerts(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.CertificateMessage$T13CertificateConsumer.onConsumeCertificate(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.CertificateMessage$T13CertificateConsumer.consume(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.SSLTransport.decode(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source) ~[?:1.8.0_381]
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source) ~[?:1.8.0_381]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source) ~[?:1.8.0_381]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:1.8.0_381]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source) ~[?:1.8.0_381]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source) ~[?:1.8.0_381]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source) ~[?:1.8.0_381]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_381]
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source) ~[?:1.8.0_381]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_381]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source) ~[?:1.8.0_381]
+	at java.net.URL.openStream(Unknown Source) ~[?:1.8.0_381]
+	at io.dogboy.serializationisbad.core.SerializationIsBad.readRemoteConfig(SerializationIsBad.java:74) [serializationisbad-1.3.jar:1.3]
+	at io.dogboy.serializationisbad.core.SerializationIsBad.readConfig(SerializationIsBad.java:55) [serializationisbad-1.3.jar:1.3]
+	at io.dogboy.serializationisbad.core.SerializationIsBad.<init>(SerializationIsBad.java:41) [serializationisbad-1.3.jar:1.3]
+	at io.dogboy.serializationisbad.core.SerializationIsBad.init(SerializationIsBad.java:35) [serializationisbad-1.3.jar:1.3]
+	at io.dogboy.serializationisbad.legacyforge.SerializationIsBadCoreMod.<init>(SerializationIsBadCoreMod.java:19) [serializationisbad-1.3.jar:1.3]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_381]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) [?:1.8.0_381]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) [?:1.8.0_381]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) [?:1.8.0_381]
+	at java.lang.Class.newInstance(Unknown Source) [?:1.8.0_381]
+	at net.minecraftforge.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:594) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:451) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:265) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:107) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupServer(FMLLaunchHandler.java:87) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.configureForServerLaunch(FMLLaunchHandler.java:47) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.launcher.FMLServerTweaker.injectIntoClassLoader(FMLServerTweaker.java:62) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_381]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_381]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_381]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_381]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2860.jar:?]
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.validator.Validator.validate(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source) ~[?:1.8.0_381]
+	... 48 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source) ~[?:1.8.0_381]
+	at java.security.cert.CertPathBuilder.build(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.validator.Validator.validate(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source) ~[?:1.8.0_381]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source) ~[?:1.8.0_381]
+	... 48 more
+[17:22:32] [main/ERROR] [LaunchWrapper]: Unable to launch
+java.lang.RuntimeException: An error occurred trying to configure the Minecraft home at D:\nomifactory-dev-f05d2f5-server\. for Forge Mod Loader
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:111) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupServer(FMLLaunchHandler.java:87) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.configureForServerLaunch(FMLLaunchHandler.java:47) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.launcher.FMLServerTweaker.injectIntoClassLoader(FMLServerTweaker.java:62) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_381]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_381]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_381]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_381]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2860.jar:?]
+Caused by: java.lang.RuntimeException: You are currently using SerializationIsBad without a config file. The mod on its own doesn't do anything so please install a config file patching the vulnerabilities to .\config\serializationisbad.json
+	at io.dogboy.serializationisbad.core.SerializationIsBad.readConfig(SerializationIsBad.java:69) ~[serializationisbad-1.3.jar:1.3]
+	at io.dogboy.serializationisbad.core.SerializationIsBad.<init>(SerializationIsBad.java:41) ~[serializationisbad-1.3.jar:1.3]
+	at io.dogboy.serializationisbad.core.SerializationIsBad.init(SerializationIsBad.java:35) ~[serializationisbad-1.3.jar:1.3]
+	at io.dogboy.serializationisbad.legacyforge.SerializationIsBadCoreMod.<init>(SerializationIsBadCoreMod.java:19) ~[serializationisbad-1.3.jar:1.3]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_381]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_381]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_381]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_381]
+	at java.lang.Class.newInstance(Unknown Source) ~[?:1.8.0_381]
+	at net.minecraftforge.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:594) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:451) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:265) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:107) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	... 11 more
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: java.lang.reflect.InvocationTargetException
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: Caused by: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.SecurityManager.checkExit(Unknown Source)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.Runtime.exit(Unknown Source)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.System.exit(Unknown Source)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[17:22:32] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	... 6 more
